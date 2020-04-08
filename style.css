@@ -95,7 +95,7 @@ section:first-of-type{
     background-blend-mode: multiply;
     position: absolute;
     top: 0;
-    /* animation: fade 10s ease alternate infinite; */
+    animation: fade 10s ease alternate infinite;
 
 }
 
